@@ -1,0 +1,11 @@
+{
+    "id": "debian-neovim",
+    "version": "0.0.1",
+    "name": "Debian 12 + Neovim",
+    "description": "Personal base dev container for remote development. Debian 12 with Neovim and personal dotfiles installed.",
+    "documentationURL": "https://github.com/geofflambeth/dev-container-templates-personal/tree/main/src/debian-neovim",
+    "licenseURL": "https://github.com/geofflambeth/dev-container-templates-personal/blob/main/LICENSE",
+    "platforms": [
+        "Linux"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Debian 12 + Neovim",
+	"build": {"dockerfile": "Dockerfile"}
+
+
+	// Features to add to the dev container. More info: https://containers.dev/features.
+	// "features": {
+	// 	"ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
+	// 		"packages": "pandoc"
+	// 	}
+	// },
+
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	// "forwardPorts": [5000]
+
+	// Use 'postCreateCommand' to run commands after the container is created.
+	// "postCreateCommand": "python3 -m venv .venv && source .venv/bin/activate &&  pip3 install -r requirements.txt",
+
+	// Configure tool-specific properties.
+	// "customizations": {},
+	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+	// "remoteUser": "root"
+}
